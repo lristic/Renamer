@@ -6,7 +6,7 @@
 _Example:_ Suppose you download multiple pictures at once, that are names something like 20210903_193950.jpg. Instead of renaming, let's say 30 of these pictures, manually, **Renamer** will help you achieve this is only 2 seconds.
 
 ## Requirements
-1. Python 3.x [How to install] (https://www.python.org/downloads/)
+1. Python 3.x [(How to install)](https://www.python.org/downloads/)
 2. Pip (Command in Terminal: `python get-pip.py`) 
 3. Pyinstaller (Command in Terminal: `pip install pyinstaller`)
 
