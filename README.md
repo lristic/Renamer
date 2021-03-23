@@ -1,4 +1,4 @@
-# Renamer
+# Renamer (v1.0)
 ## A Python application made in Tinker
 
 
